@@ -12,7 +12,7 @@ public class Main {
      System.out.println("A área do Losango é " + areaLosango);
 
      double areaTrapezio = quadrilatero.area (60, 30, 40);
-     System.out.println("A área do Trapézio é " + areaTrapezio);
+     System.out.println("A área do Trapézio é  " + areaTrapezio);
 
     }
     
